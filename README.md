@@ -83,10 +83,15 @@ From 2017 to 2022, complaint volumes grew steadily while performance remained co
 Then came 2023.
 At first glance, complaints appeared to drop from 13K (2022) to 9K, but this is misleading. The 2023 data only covers January to August. To ensure a fair comparison, I conducted a like-for-like analysis of January–August across both years.
 The results are alarming:
+
 📌 Complaints increased from 8K to 9K ( 12.5% increase).
+
 📌 Timely response rate crashed from 96.82% to 77.95% (a nearly 19 percentage point collapse in a single year).
+
 📌 Resolution rate fell from 100% to 83.72% (meaning 1 in 6 complaints in 2023 went unresolved, compared to virtually none in 2022).
+
 📌 Approximately 16% of 2023 complaints remain in progress.
+
 In just one year, the system went from near-perfect performance to a significant breakdown, while simultaneously receiving more complaints. Companies are handling a higher volume worse than before. That is a compounding problem that demands regulatory attention.
 - Geographic Hotspots
 The South Census Region recorded the highest complaint concentration overall, with the South Atlantic division leading across all nine U.S. Census divisions. California, Texas, and Florida were the top complaint states.
